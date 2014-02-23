@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kål Er Godt</string>
+    <string name="action_settings">Settings</string>
+    <string name="toOtherActivity">To Other Activity</string>
+    <string name="toOtherActivityReorder">To Other Activity (re-order)</string>
+    <string name="title_activity_mere_kaal_er_bedre">MereKaalErBedreActivity</string>
+
+</resources>
